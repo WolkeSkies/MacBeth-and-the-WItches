@@ -2,6 +2,8 @@
 Press Alt + f4 on your keyboard in order to exit game!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+To install this game properly please extract all files into a folder and open MacBeth (Low Poly).exe
+
 This project is a virtual diorama. Feel free to explore the environment as you please but your main goal is to find the witches. It will
 play audio from the MacBeth(2018) movie in which the witches tell MacBeth his destiny and disappear.
 
